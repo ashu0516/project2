@@ -1,2 +1,5 @@
 # project2
 PYTHON PROGRAAM
+L1=[1,2,3,4]
+PRINT("LIST")
+PRINT(L1)
